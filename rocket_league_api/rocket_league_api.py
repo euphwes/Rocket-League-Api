@@ -44,7 +44,7 @@ tiers = {
 	7: 'Challenger III',
 	8: 'Challenger Elite',
 	9: 'Rising Star',
-	10: 'All Star',
+	10: 'All-star',
 	11: 'Superstar',
 	12: 'Champion'}
 
